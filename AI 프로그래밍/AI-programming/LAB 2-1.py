@@ -1,0 +1,12 @@
+Python 3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> print('나의 이름은 :', '김찬희')
+나의 이름은 : 김찬희
+>>> print('나의 나이는 :', 24)
+나의 나이는 : 24
+>>> print('나의 키는', 176, 'cm 입니다.')
+나의 키는 176 cm 입니다.
+>>> print('10 + 20 =', 10+20)
+10 + 20 = 30
+>>> print('10*20 =', 10*20)
+10*20 = 200
